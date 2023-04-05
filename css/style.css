@@ -3,8 +3,19 @@ body{
 }
 h1{
     margin-top: 0px;
+    /* margin-bottom: 0px; */
 }
 
-div{
-    background-color: rgb(198, 224, 246);
+.topContainer{
+    background-color: rgb(160, 242, 159);
+}
+.middleContainer{
+    background-color: goldenrod;
+    height: 200px;
+    width: 200px;
+}
+.bottomContainer{
+    background-color: rgb(86, 207, 207);
+    height: 200px;
+    width: 200px;
 }

@@ -13,9 +13,22 @@ h1{
     background-color: goldenrod;
     height: 200px;
     width: 200px;
+    position: relative;
+    left : 500px;
 }
 .bottomContainer{
     background-color: rgb(86, 207, 207);
     height: 200px;
     width: 200px;
+    position: relative;
+    left : 300px;
+    bottom: 200px;
+}
+.bottom2Container{
+    background-color: rgb(211, 170, 210);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left : 100px;
+    bottom: 400px;
 }
